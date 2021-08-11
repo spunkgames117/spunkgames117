@@ -8,6 +8,4 @@
 spunkgames117/spunkgames117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
-beacons.page/spunkgames117
-
-https://linktr.ee/spunkjv07_Games
+http://beacons.page/spunkgames117
